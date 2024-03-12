@@ -8,7 +8,7 @@ addon_xml="https://raw.githubusercontent.com/TakeOne-Team/REPO-TakeOne/main/Omeg
 
 addon_name="rsamusictv"
 addon_image="https://bitbucket.org/zoreu123/br.repo/raw/master/matrix/plugin.video.f4mTester/icon.png"
-addon_xml="https://raw.githubusercontent.com/7PlusREPO/Yout.245/master/addon.xml"
+addon_xml="https://raw.githubusercontent.com/7PlusREPO/Yout.245/master/rsamusictv/addon.xml"
 
 addon_name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]"
 addon_image="https://bitbucket.org/zoreu123/br.repo/raw/master/store/matrix/plugin.video.BrazucaPlay.Matrix/icon.png"
